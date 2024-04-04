@@ -6,6 +6,7 @@ public class BasicProgramWithJava {
 	public static void main(String[] args) 
 	{
 		System.out.println("Hi Program");
+		System.out.println("Hello");
 	}
 
 }
