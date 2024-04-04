@@ -24,7 +24,7 @@ public class SerializationExampleWithJSONObject
 	String empJSON;
 	emp obj;
 	ObjectMapper mapper;
-	//serialization = Object Data to JSON Data
+	//serialization = Object Data to JSON Data example
 	@Test (priority = 1)
 	public void SerData() throws JsonProcessingException
 	{
