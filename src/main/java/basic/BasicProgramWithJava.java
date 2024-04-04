@@ -7,6 +7,7 @@ public class BasicProgramWithJava {
 	{
 		System.out.println("Hi Program");
 		System.out.println("Hello");
+		System.out.println("Welcome to the Program");
 	}
 
 }
