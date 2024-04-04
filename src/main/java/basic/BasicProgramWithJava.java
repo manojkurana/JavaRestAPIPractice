@@ -5,7 +5,7 @@ public class BasicProgramWithJava {
 	static String basPath="/api/users";
 	public static void main(String[] args) 
 	{
-
+		System.out.println("Hi Program");
 	}
 
 }
